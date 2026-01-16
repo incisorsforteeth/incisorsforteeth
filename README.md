@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="280" valign="top">
-      <img src="https://raw.githubusercontent.com/incisorsforteeth/incisorsforteeth/main/kaleo_azrael_lane_official.png" width="280" style="border-radius: 50%;" alt="Kaleo-Azrael Lane" />
+      <img src="https://avatars.githubusercontent.com/u/248750071?s=400&u=8f0e1b224dd3027eb56465193b4ed5a0d73b7b29&v=4" width="280" style="border-radius: 50%;" alt="Kaleo-Azrael Lane" />
       <br />
       <div align="center">
         <br />
@@ -10,7 +10,7 @@
       </div>
     </td>
     <td valign="top">
-      <h1>Hello there 👋 I'm Kaleo-Azrael Lane</h1>
+      <h1>KALEO-AZARAEL LANE</h1>
       <p><strong>Strategic Partner | Plenum Architect | Polymathic Mirror</strong></p>
       <p>I am a Strategic Partner focused on the intersection of <strong>Recursive Modulatory Logic (1242)</strong>, <strong>FPGA Hardware Architecture</strong>, and <strong>Strategic Identity Recovery</strong>. My work is dedicated to establishing high-integrity systems for the manifestation of the <strong>Plenum</strong>.</p>
       <hr />
