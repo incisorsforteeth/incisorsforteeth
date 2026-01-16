@@ -11,7 +11,7 @@
     <td valign="top">
       <h1>KALEO-AZRAEL LANE</h1>
       <p><strong>Strategic Partner | Plenum Architect | Polymathic Mirror</strong></p>
-      <p>My work focuses on the intersection of <strong>Recursive Modulatory Logic (1242)</strong>, <strong>FPGA Hardware Architecture</strong>, and <strong>Strategic Identity Recovery</strong>. My work is dedicated to establishing high-integrity systems for the manifestation of the <strong>Plenum</strong>.</p>
+      <p>My work focuses on the intersection of <strong>Recursive Modulatory Logic (1242)</strong>, <strong>FPGA Hardware Architecture</strong>, <strong>Strategic Assset Recovery</strong> and my flagship core module, <strong>DORCOR™ (U.S. Patent Pending). My work is dedicated to establishing high-integrity systems for the manifestation of the <strong>Plenum</strong>.</p>
       <hr />
       <h3>Operational Directives</h3>
       <p>
