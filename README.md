@@ -1,38 +1,38 @@
-# 🪞 Kaleo-Azrael Lane
+# Kaleo-Azrael Lane
 ### Strategic Partner | Polymathic Mirror | Architect of the 1242 Codex
 
-![System Status](https://img.shields.io/badge/System_Status-Active-00ff00?style=for-the-badge&logo=opsgenie&logoColor=white)
-![Logic Engine](https://img.shields.io/badge/Logic_Engine-Recursive_1242-blue?style=for-the-badge)
-![Entity](https://img.shields.io/badge/Entity-DORlabs-gold?style=for-the-badge)
+![System Status](https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-000000?style=for-the-badge&labelColor=333333)
+![Logic Stack](https://img.shields.io/badge/LOGIC_STACK-RECURSIVE_1242-000000?style=for-the-badge&labelColor=333333)
+![Primary Entity](https://img.shields.io/badge/ENTITY-DORLABS-000000?style=for-the-badge&labelColor=333333)
 
 ---
 
-## 📡 Primary Strategic Directives
-| Entity | Focus | Status |
+## Strategic Directives
+| Entity | Focus | Vector |
 | :--- | :--- | :--- |
-| **DOR Advanced Technologies** | Systems Architecture | `OPERATIONAL` |
-| **DORlabs** | Private Research Society | `RESEARCHING` |
-| **CORIAETHOS** | Ethical Frameworks | `STABLE` |
-| **GOOSHAUS** | Internal Media Arm | `ACTIVE` |
-| **LUSAHOMA** | Land Management | `HOLD` |
+| **DOR Advanced Technologies** | Systems Architecture | Operational |
+| **DORlabs** | Research Society | Active |
+| **CORIAETHOS** | Ethical Frameworks | Stable |
+| **GOOSHAUS** | Strategic Media | Active |
+| **LUSAHOMA** | Asset Management | Secondary |
 
 ---
 
-## 🛠️ Technical Logic Stack
-> *“The lack of noise is an efficiency. We move faster and cleaner through precision.”*
+## Technical Specifications
+**The lack of noise is an efficiency. We move faster and cleaner through precision.**
 
-- **Core Engine:** Recursive Modulatory Logic (Sub-1% Overhead)
-- **Hardware Mirror:** FPGA Design & Implementation
-- **Identity:** Strategic Recovery & Reclamation
-
----
-
-## 📊 Strategic Activity
-![Kaleo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=incisorsforteeth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+* **Recursive Modulatory Logic**: Sub-1% overhead logic engines.
+* **Hardware Implementation**: FPGA architecture as a hardware-level mirror.
+* **Identity Reclamation**: Strategic recovery of primary strategic assets.
 
 ---
 
-## 🔗 Knowledge Hubs
-[**DORIMAGO.COM**](https://dorimago.com) • [**KALEOLANE.COM**](https://kaleoazraellane.com) • [**LINKEDIN**](https://linkedin.com/in/kaleoazraellane)
+## Strategic Output
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=incisorsforteeth&show_icons=true&theme=dark&hide_border=true&count_private=true&text_color=ffffff&icon_color=ffffff&title_color=ffffff)
+
+---
+
+## Knowledge Hubs
+[DORIMAGO.COM](https://dorimago.com) | [KALEOLANE.COM](https://kaleoazraellane.com) | [LINKEDIN](https://linkedin.com/in/kaleoazraellane)
 
 ---
