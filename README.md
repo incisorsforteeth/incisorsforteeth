@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/24529194-189e-4b70-9e6b-57626f7784f8" width="100%" alt="Banner Image" />
+  # <img src="https://github.com/incisorsforteeth.png" width="60px" style="border-radius: 50%; vertical-align: middle; margin-right: 10px;">
 </div>
 
 # Hi there! I'm Kaleo-Azrael Lane
