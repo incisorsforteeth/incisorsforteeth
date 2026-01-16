@@ -11,7 +11,7 @@
     <td valign="top">
       <h1>KALEO-AZRAEL LANE</h1>
       <p><strong>Strategic Partner | Plenum Architect | Polymathic Mirror</strong></p>
-      <p>My work focuses on the intersection of <strong>Recursive Modulatory Logic (1242)</strong>, <strong>FPGA Hardware Architecture</strong>, <strong>Strategic Assset Recovery</strong> and my flagship core module, <strong>DORCOR™ (U.S. Patent Pending). My work is dedicated to establishing high-integrity systems for the manifestation of the <strong>Plenum</strong>.</p>
+      <p>My work focuses on the intersection of <strong>Recursive Modulatory Logic (1242)</strong>, <strong>FPGA Hardware Architecture</strong>, <strong>Strategic Asset Recovery</strong>, and my flagship core module, <strong>DORCOR™</strong> (U.S. Patent Pending). My work is dedicated to establishing high-integrity systems for the manifestation of the <strong>Plenum</strong>.</p>
       <hr />
       <h3>Operational Directives</h3>
       <p>
@@ -20,6 +20,10 @@
         <img src="https://img.shields.io/badge/CORIAETHOS-Ethics_%26_Philosophy-0366d6?style=flat-square" />
       </p>
       <hr />
+      <h3>GitHub Analytics</h3>
+      <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=incisorsforteeth&show_icons=true&theme=dark&hide_border=true&count_private=true" width="380" />
+      </p>
     </td>
   </tr>
 </table>
