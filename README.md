@@ -3,32 +3,25 @@
 
 ---
 
-## CORE_LOGIC_VECTORS
-| ARCHITECTURE | IMPLEMENTATION | STATE |
+## SYSTEM_SPECIFICATIONS
+> **ARCHITECTURE** : Recursive Modulatory Logic (1242)
+> **IMPLEMENTATION** : FPGA Hardware Architecture
+> **VECTOR** : Strategic Identity Recovery
+
+---
+
+## OPERATIONAL_DIRECTIVES
+| ENTITY | VECTOR | STATUS |
 | :--- | :--- | :--- |
-| **LOGIC ENGINE** | Recursive Modulatory Logic (1242) | `ACTIVE` |
-| **SYSTEMS** | FPGA Hardware Architecture | `STABLE` |
-| **RECLAMATION** | Strategic Identity Recovery | `PRIMARY` |
+| **DOR Advanced Technologies** | Systems Architecture | `STABLE` |
+| **DORlabs** | Private Research Society | `ACTIVE` |
+| **CORIAETHOS** | Ethics & Philosophy | `OPERATIONAL` |
+| **GOOSHAUS** | Strategic Communications | `ACTIVE` |
+| **LUSAHOMA** | Asset Management | `HOLD` |
 
 ---
 
-## OPERATIONAL_ENTITIES
-* **DOR Advanced Technologies** | Systems Architecture
-* **DORlabs** | Private Research Society
-* **CORIAETHOS** | Ethics & Philosophy Framework
-* **GOOSHAUS** | Strategic Communications
-* **LUSAHOMA** | Asset Management
-
----
-
-## SYSTEM_METRICS
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=incisorsforteeth&show_icons=true&theme=transparent&hide_border=true&count_private=true&text_color=ffffff&icon_color=777777&title_color=ffffff&hide_rank=true" alt="Strategic Activity Metrics" />
-</p>
-
----
-
-## CONNECTIVITY_VECTOR
+## KNOWLEDGE_HUBS
 [DORIMAGO.COM](https://dorimago.com) • [KALEOLANE.COM](https://kaleoazraellane.com) • [LINKEDIN](https://linkedin.com/in/kaleoazraellane)
 
 ---
