@@ -20,10 +20,6 @@
         <img src="https://img.shields.io/badge/CORIAETHOS-Ethics_%26_Philosophy-0366d6?style=flat-square" />
       </p>
       <hr />
-      <h3>GitHub Analytics</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=incisorsforteeth&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400" />
-      <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=incisorsforteeth&theme=dark&hide_border=true" width="400" />
     </td>
   </tr>
 </table>
