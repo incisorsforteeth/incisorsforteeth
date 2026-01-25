@@ -6,6 +6,7 @@
       <div align="center">
         <a href="https://dorimago.com"><img src="https://img.shields.io/badge/DOR-000?style=for-the-badge" /></a>
         <a href="https://kaleoazraellane.com"><img src="https://img.shields.io/badge/WEB-000?style=for-the-badge" /></a>
+       <a href="https://linkedin.com/in/kaleoazraellane"><img src="https://img.shields.io/badge/WEB-000?style=for-the-badge" /></a>
       </div>
     </td>
     <td valign="top">
